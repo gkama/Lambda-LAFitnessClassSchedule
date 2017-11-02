@@ -1,0 +1,189 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "2960091c67095eaddfb5080a348be84661a9a2d1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "LAFitnessClubs/1.0.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "1.0.0",
+          "Amazon.Lambda.Serialization.Json": "1.1.0",
+          "HtmlAgilityPack.NetCore": "1.5.0.1",
+          "AWSSDK.APIGateway": "3.3.9.2"
+        },
+        "runtime": {
+          "LAFitnessClubs.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.3/Amazon.Lambda.Core.dll": {}
+        }
+      },
+      "Amazon.Lambda.Serialization.Json/1.1.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "1.0.0",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Amazon.Lambda.Serialization.Json.dll": {}
+        }
+      },
+      "Amazon.Lambda.Tools/1.8.0": {
+        "dependencies": {
+          "AWSSDK.CloudFormation": "3.3.3.9",
+          "AWSSDK.IdentityManagement": "3.3.2.3",
+          "AWSSDK.Lambda": "3.3.2.9",
+          "AWSSDK.S3": "3.3.5.10",
+          "Newtonsoft.Json": "9.0.1",
+          "YamlDotNet.Signed": "4.2.1"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/dotnet-lambda.dll": {}
+        }
+      },
+      "AWSSDK.APIGateway/3.3.9.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.18.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.APIGateway.dll": {}
+        }
+      },
+      "AWSSDK.CloudFormation/3.3.3.9": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.18.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.CloudFormation.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.18.2": {
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.IdentityManagement/3.3.2.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.18.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.IdentityManagement.dll": {}
+        }
+      },
+      "AWSSDK.Lambda/3.3.2.9": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.18.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.Lambda.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.3.5.10": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.18.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/AWSSDK.S3.dll": {}
+        }
+      },
+      "HtmlAgilityPack.NetCore/1.5.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/HtmlAgilityPack.NetCore.dll": {}
+        }
+      },
+      "Newtonsoft.Json/9.0.1": {
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Runtime.Serialization.Primitives/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      },
+      "YamlDotNet.Signed/4.2.1": {
+        "runtime": {
+          "lib/netstandard1.3/YamlDotNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAFitnessClubs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+pBYGHaOaDAhu2j8BA5MhKLwxZM7lgmTSroGyCzEqWMBx+uc+QtpED2ShCAkKjKeedXH+LvJpQAUkEtW7rfcgQ=="
+    },
+    "Amazon.Lambda.Serialization.Json/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xRovd71Kji08OYj3PkHlNMA/RgRdyGj2TLRFt7R5JrzHkrrH8fV8DjdaCDR1SLf8p8LJF6fQjEHdW5vSDOArrw=="
+    },
+    "Amazon.Lambda.Tools/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0do4MYosbZ9ukSvBNoPTXLH0SG05LvCsMNa4xZWYqxFCzMy1vvlsgCYOmsuAFKa4fHZySKw8s5JoHw9M340Gsg=="
+    },
+    "AWSSDK.APIGateway/3.3.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vEaNIsTK1WVlGn8p91GZmZF//jZTPOfVLsJeIbiwByZHW9gqd/1BdgTv/cBs1ubFs6X5AZxaS3vssmtc9HJzkg=="
+    },
+    "AWSSDK.CloudFormation/3.3.3.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tPdKQYPZ+Ty2ESIYp061rXB9xggpsxmeCELzo0D6HW17AMYoPujGmiV3Z4X6EUnZFy45l9D7GpSsEBKXj89IbQ=="
+    },
+    "AWSSDK.Core/3.3.18.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T+r3QstCCcX5CEkBFY66A1p3097i1bXC3kD7zALvzFprpM2AYd12WoGH3AUB0WlvZir2OaKcjhLDCXeiqeqdog=="
+    },
+    "AWSSDK.IdentityManagement/3.3.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fTPNQLSZjuEwK6jrTHD/WC4OtzzjXDRgY8s1a4TH/mSnNZ+3AXMcbYVnOIpXBltbFvHhA4eImLoyYp08V/jaeA=="
+    },
+    "AWSSDK.Lambda/3.3.2.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jD0Opr1xwhPh7PmqoUWn/76J/jFmL1SJD387RIktzNg0eY89n2wBaTdHN76/LCAXpzvbVKozvtcD5dp6+Sy6Zw=="
+    },
+    "AWSSDK.S3/3.3.5.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RTJdrmOjD8eob+0envRxDAPUrzE+L5p/N07tyjU6pwSJEEhmWJ8vGfznBhHOHTGRXOzQjJmbjC/lAoJWI/Twsw=="
+    },
+    "HtmlAgilityPack.NetCore/1.5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UaLQtf8QMM1cxUDPMMBcrgX3A/56P+y4mHidgWaoiieaEG9eyODVRIKt6cQtBZaHLOVX3abGdMGVk2RnlWUAOw=="
+    },
+    "Newtonsoft.Json/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw=="
+    },
+    "System.Runtime.Serialization.Primitives/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg=="
+    },
+    "YamlDotNet.Signed/4.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1vE+3OtCIvHPt//3GD8ZYpZtZ6xYt9hJCMrdmJzg9gMNbKxasvZyKgGVGB5HVBuzLT9dqZDkDaEbnYVfio+ONg=="
+    }
+  }
+}
