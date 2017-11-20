@@ -26,10 +26,10 @@ namespace LAFitnessClubs
         HttpClient http = new HttpClient();
         List<string> Days = new List<string>() { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
 
-        public string Execute(ILambdaContext context)
+        public string Execute(ILambdaContext context, string state, string zipcode)
         {
             StringBuilder toReturn = new StringBuilder();
-            List<Club> Clubs = getClubs("KY", 41005);   
+            List<Club> Clubs = getClubs(state, int.Parse(zipcode));   
             foreach (Club c in Clubs)
             {
                 context.Logger.Log(c.ToString());

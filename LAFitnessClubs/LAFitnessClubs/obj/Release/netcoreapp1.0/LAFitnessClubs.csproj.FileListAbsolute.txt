@@ -1,0 +1,8 @@
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\bin\Release\netcoreapp1.0\LAFitnessClubs.deps.json
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\bin\Release\netcoreapp1.0\LAFitnessClubs.dll
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\bin\Release\netcoreapp1.0\LAFitnessClubs.pdb
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\obj\Release\netcoreapp1.0\LAFitnessClubs.csproj.CoreCompileInputs.cache
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\obj\Release\netcoreapp1.0\LAFitnessClubs.AssemblyInfoInputs.cache
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\obj\Release\netcoreapp1.0\LAFitnessClubs.AssemblyInfo.cs
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\obj\Release\netcoreapp1.0\LAFitnessClubs.dll
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\Lambda-LAFitnessClassSchedule\LAFitnessClubs\LAFitnessClubs\obj\Release\netcoreapp1.0\LAFitnessClubs.pdb
